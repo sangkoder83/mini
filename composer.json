@@ -1,0 +1,19 @@
+{
+  "name": "sangkoder/mini",
+  "description": "Mini Proyek PHP Framework",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mini\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "sangkoder",
+      "email": "dev@sangkoder.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
